@@ -1,0 +1,29 @@
+name: Recovery problem
+description: Report an omission, wrong task, or continuation failure without sharing private content.
+title: "[Recovery] "
+labels: []
+body:
+  - type: dropdown
+    id: outcome
+    attributes:
+      label: What happened?
+      options:
+        - Important content was omitted
+        - The wrong task was restored
+        - Continuation failed
+        - The recovered state was confusing
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Describe the flow without pasting private task content or continuation tokens.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true

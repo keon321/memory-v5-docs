@@ -1,0 +1,17 @@
+name: Onboarding problem
+description: Report something that made the first-use flow difficult to understand.
+title: "[Onboarding] "
+labels: []
+body:
+  - type: textarea
+    id: stuck
+    attributes:
+      label: Where did you get stuck?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What would have made the next step obvious?
+    validations:
+      required: true
