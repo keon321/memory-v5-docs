@@ -4,7 +4,7 @@
 
 Use:
 
-https://memory-v5-beta.8084867.workers.dev/start
+https://memory.5188688.xyz/start
 
 Follow the connection flow shown there.
 

@@ -16,4 +16,4 @@ For ordinary product bugs, open an issue with the minimum reproducible informati
 
 For a security issue that could expose another user's data, bypass tenant isolation, restore the wrong task, retain secrets, or cause unauthorized deletion, do not post exploit details publicly. Use the private contact path listed on the product support page:
 
-https://memory-v5-beta.8084867.workers.dev/support
+https://memory.5188688.xyz/support

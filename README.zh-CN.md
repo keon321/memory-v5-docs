@@ -62,15 +62,15 @@ Memory V5 目前处于公开免费测试阶段。
 
 开始使用：
 
-https://memory-v5-beta.8084867.workers.dev/start
+https://memory.5188688.xyz/start
 
 产品首页：
 
-https://memory-v5-beta.8084867.workers.dev/
+https://memory.5188688.xyz/
 
 版本说明：
 
-https://memory-v5-beta.8084867.workers.dev/pricing
+https://memory.5188688.xyz/pricing
 
 ## 它不是什么
 
@@ -90,7 +90,7 @@ https://memory-v5-beta.8084867.workers.dev/pricing
 
 隐私说明：
 
-https://memory-v5-beta.8084867.workers.dev/privacy
+https://memory.5188688.xyz/privacy
 
 ## 反馈
 

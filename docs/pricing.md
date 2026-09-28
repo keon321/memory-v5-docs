@@ -30,4 +30,4 @@ No public price has been announced.
 
 Current status page:
 
-https://memory-v5-beta.8084867.workers.dev/pricing
+https://memory.5188688.xyz/pricing

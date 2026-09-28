@@ -48,11 +48,11 @@ Future paid features are expected to focus on scale and management: more active 
 
 ## Start
 
-**Start free:** https://memory-v5-beta.8084867.workers.dev/start
+**Start free:** https://memory.5188688.xyz/start
 
-Product page: https://memory-v5-beta.8084867.workers.dev/
+Product page: https://memory.5188688.xyz/
 
-Pricing/status: https://memory-v5-beta.8084867.workers.dev/pricing
+Pricing/status: https://memory.5188688.xyz/pricing
 
 ## What Memory V5 is not
 
@@ -70,7 +70,7 @@ Task state is tenant-isolated and encrypted in the service. Temporary continuati
 
 Do not put passwords, API keys, seed phrases, or other secrets into task state.
 
-More detail: https://memory-v5-beta.8084867.workers.dev/privacy
+More detail: https://memory.5188688.xyz/privacy
 
 ## Feedback
 

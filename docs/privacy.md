@@ -31,4 +31,4 @@ Do not place passwords, API keys, seed phrases, authentication cookies, or other
 
 Full current notice:
 
-https://memory-v5-beta.8084867.workers.dev/privacy
+https://memory.5188688.xyz/privacy
