@@ -64,6 +64,14 @@ Memory V5 目前处于公开免费测试阶段。
 
 https://memory.5188688.xyz/start
 
+Power 浏览器助手（手动安装）：
+
+https://github.com/keon321/memory-v5-docs/blob/main/docs/power-browser-assistant.md
+
+Power 0.7.0 ZIP：
+
+https://memory.5188688.xyz/downloads/power-0.7.0.zip
+
 产品首页：
 
 https://memory.5188688.xyz/
