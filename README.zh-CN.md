@@ -46,7 +46,7 @@ https://taskonward.5188688.xyz/start
 
 Power 浏览器助手：
 
-https://github.com/keon321/memory-v5-docs/blob/main/docs/power-browser-assistant.md
+docs/power-browser-assistant.md
 
 ## 隐私
 

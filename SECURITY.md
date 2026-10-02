@@ -14,6 +14,6 @@ Do not include:
 
 For ordinary product bugs, open an issue with the minimum reproducible information.
 
-For a security issue that could expose another user's data, bypass tenant isolation, restore the wrong task, retain secrets, or cause unauthorized deletion, do not post exploit details publicly. Use the private contact path listed on the product support page:
+For a security issue that could expose another user's data, bypass tenant isolation, restore the wrong task, retain secrets, or cause unauthorized deletion, do not post exploit details publicly. Use the private contact path listed on the TaskOnward support page:
 
-https://memory.5188688.xyz/support
+https://taskonward.5188688.xyz/support

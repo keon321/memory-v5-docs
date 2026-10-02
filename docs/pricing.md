@@ -1,6 +1,6 @@
 # Pricing status
 
-Memory V5 is currently free during the public test.
+TaskOnward is currently free during the public beta.
 
 ## Free
 
@@ -30,4 +30,4 @@ No public price has been announced.
 
 Current status page:
 
-https://memory.5188688.xyz/pricing
+https://taskonward.5188688.xyz/pricing
