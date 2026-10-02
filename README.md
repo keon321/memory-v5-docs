@@ -54,7 +54,7 @@ Privacy: https://taskonward.5188688.xyz/privacy
 
 ## Technical note
 
-TaskOnward is powered by the **Memory V5** continuity engine.
+TaskOnward keeps task continuity explicit across chat changes.
 
 The core service repository remains private.
 

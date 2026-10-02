@@ -68,4 +68,4 @@ https://taskonward.5188688.xyz/privacy
 
 ## 技术说明
 
-TaskOnward 底层使用 **Memory V5** continuity engine。
+TaskOnward 负责在换 Chat 时保存、恢复并确认任务状态。

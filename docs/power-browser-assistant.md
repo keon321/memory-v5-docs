@@ -6,11 +6,11 @@ Power 是 TaskOnward 的可选浏览器助手。
 
 ## 下载
 
-[下载 TaskOnward Power 0.7.3 ZIP](../downloads/taskonward-power-0.7.3.zip)
+[下载 TaskOnward Power 0.7.4 ZIP](../downloads/taskonward-power-0.7.4.zip)
 
 SHA-256：
 
-`7e01cfec1db2a3157224407d3b84d21463fabf0b1db30ec3745718e2b5b007d3`
+`4643b7feff0081e7627775c16102c115724da41ab52065eb9c31ebe476bbff83`
 
 ## Chrome 安装
 
